@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.56da2fbd.css",
-    "main.js": "/static/js/main.45221601.js",
-    "index.html": "/index.html",
-    "main.56da2fbd.css.map": "/static/css/main.56da2fbd.css.map",
-    "main.45221601.js.map": "/static/js/main.45221601.js.map"
+    "main.css": "/my-skill-set.github.io/static/css/main.56da2fbd.css",
+    "main.js": "/my-skill-set.github.io/static/js/main.45221601.js",
+    "index.html": "/my-skill-set.github.io/index.html",
+    "main.56da2fbd.css.map": "/my-skill-set.github.io/static/css/main.56da2fbd.css.map",
+    "main.45221601.js.map": "/my-skill-set.github.io/static/js/main.45221601.js.map"
   },
   "entrypoints": [
     "static/css/main.56da2fbd.css",
